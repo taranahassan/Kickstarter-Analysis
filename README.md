@@ -12,6 +12,6 @@ This analysis provides measurable outcomes for each category/subcategory specifi
 
 *Similar chart provided for subcategories
 
-*Line chart provided to show trends throughout year for parent categories ![Outcomes Based on Launched Dates](Outcomes_Based_on_Launched_Dates.pnghttps://github.com/taranahassan/kickstarter-anaylysis/blob/main/Outcomes%20Based%20on%20Launched%20Dates.png?raw=true) 
+*Line chart provided to show trends throughout year for parent categories ![Outcomes Based on Launched Dates](https://github.com/taranahassan/kickstarter-anaylysis/blob/main/Parent%20Category%20Outcomes%20-%20US.png?raw=true)
 
 Reccommendations are to continue with the successful campaigns however revisit the failed campaigns and setting a more realistic goal for each.  
