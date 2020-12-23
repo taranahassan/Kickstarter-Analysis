@@ -1,9 +1,17 @@
 # kickstarter-anaylysis
+
 ## An Analysis of Kickstarter Campaigns
+
 This analysis provides measurable outcomes for each category/subcategory specified by location. The following are what have been analyzed further.
----1 The US market has been analyzed further to show the failed campaigns have a higher goal expectation but minimal interest from backers.  
----2 The top 5 plays are successful with the goal expectations.
----3 a stacked chart provided to show the outcomes of each categories ![Parent Category Outcomes-Us](Parent_Category_Outcomes_-_Us.png) 
----4 similar chart provided for subcategories
----5 Line chart provided to show trends throughout year for parent categories ![Outcomes Based on Launched Dates](Outcomes_Based_on_Launched_Dates.png) 
----Reccommendations are to continue with the successful campaigns however revisit the failed campaigns and setting a more realistic goal for each.  
+
+*The US market has been analyzed further to show the failed campaigns have a higher goal expectation but minimal interest from backers.  
+
+*The top 5 plays are successful with the goal expectations.
+
+-* A stacked chart provided to show the outcomes of each categories ![Parent Category Outcomes-Us](https://github.com/taranahassan/kickstarter-anaylysis/blob/main/Parent%20Category%20Outcomes%20-%20US.png?raw=true) 
+
+*Similar chart provided for subcategories
+
+*Line chart provided to show trends throughout year for parent categories ![Outcomes Based on Launched Dates](Outcomes_Based_on_Launched_Dates.pnghttps://github.com/taranahassan/kickstarter-anaylysis/blob/main/Outcomes%20Based%20on%20Launched%20Dates.png?raw=true) 
+
+Reccommendations are to continue with the successful campaigns however revisit the failed campaigns and setting a more realistic goal for each.  
