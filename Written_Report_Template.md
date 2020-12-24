@@ -14,11 +14,11 @@ This would help her to determine if there is a trend for better funding goals ba
 
 From the large data set, a separate chart was created with launch dates for only the successful, failed and canceled campaigns.  Live campaigns would not be valid as they are still active in receiving funds.  This chart helps quantify total for each outcomes and popularity in the time of year.  Total campaigns launched and ended were 1369.  Out of that 839 were successful, 493 failed and 37 were canceled.
 Thus far, successful campaigns peak in May, June and July with 10%-13% higher than the other months.  Successful campaigns amount to 61% of total campaigns launched and ended.  Failed campaigns amount to 36% of total campaigns launched.  Canceled campaigns at a minimal of 3%.
-A line chart included helps visualize the peak and downward trend
-
+A line chart included helps visualize the peak and downward trend. [Outcomes_vs_Goals](
 
 ### Analysis of Outcomes Based on Goals
 
+A table was created for an isolated analysis of goals set for each campaign.   Each successful, failed and canceled campaign were categorized in ranges to tabulate totals.  Each range increases by 4999.
 ### Challenges and Difficulties Encountered
 
 ## Results
