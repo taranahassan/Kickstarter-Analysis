@@ -26,20 +26,9 @@ Only challenge faced was when creating pivort tables and trying to identify whic
 
 ## Results
 
-- **What are two conclusions you can draw about the Outcomes based on Launch Date?**
-
-After reviewing the data, it seems campaigns have a better success rate in the warmer months of the year.  From April to Aug, the average number of total campaigns launched were 138 with an average of 88 successful campaigns.  No matter the total or the time of year, approximately half of the campaigns fail.
-
-- **What can you conclude about the Outcomes based on Goals?**
-
+After reviewing the data, it seems campaigns have a better success rate in the warmer months of the year.  From April to Aug, the average number of total campaigns launched were 138 with an average of 88 successful campaigns.  No matter the total or the time of year, approximately half of the campaigns are bound to fail.
 Goals set no higher than $10000, have a better success rate.  So it is safe to assume Louise's play with a budget of $10000 would have a positive outcome.  The higher the goal, the risk of a failed campaign increases.
-
-- **What are some limitations of this dataset?**
-
-More data could have been provided.  In order to make a more definitive analysis, there are more factors to be taken into consideration; such as marketing, reasons why campaigns were canceled and if there are other reasons factoring to the failure of a campaign.
-
-- **What are some other possible tables and/or graphs that we could create?**
-
+More data could have been provided in this data set.  In order to make a more definitive analysis, there are more factors to be taken into consideration; such as marketing, reasons why campaigns were canceled and if there are other reasons factoring to the failure of a campaign.
 We could create a table to see if plays have a higher success rate based on country.  Are goal ranges different for each location.  Additionaly the currency noted would be valued differently, so would that change the goal ranges completely for each country if the conversion was done.
 
  
